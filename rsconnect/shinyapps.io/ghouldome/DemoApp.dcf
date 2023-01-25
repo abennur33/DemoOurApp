@@ -1,0 +1,13 @@
+name: DemoApp
+title: DemoApp
+username:
+account: ghouldome
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4893027
+bundleId: 5163868
+url: https://ghouldome.shinyapps.io/DemoApp/
+when: 1634844882.37286
+lastSyncTime: 1634844882.37286
+asMultiple: FALSE
+asStatic: FALSE

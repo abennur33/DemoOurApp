@@ -1,0 +1,13 @@
+name: OurApp
+title: OurApp
+username:
+account: ghouldome
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4444630
+bundleId: 5148605
+url: https://ghouldome.shinyapps.io/OurApp/
+when: 1634528969.17032
+lastSyncTime: 1634528969.17032
+asMultiple: FALSE
+asStatic: FALSE
